@@ -8,7 +8,7 @@ int main() {
     scanf("%d", &n);
     int x;
     int y;
-    int array[n];
+    int array[10];
     array[0] = 0;
     array[1] = 1;
     int i;
@@ -20,7 +20,7 @@ int main() {
     int z;
     for (z = 0; i < sizeof(array); i++)
     {
-        printf("%d" , array[z]);
+        printf("%d" , &array[z]);
     }
     
     

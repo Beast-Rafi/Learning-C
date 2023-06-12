@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int isPrime(int number)
 {
@@ -23,7 +24,7 @@ int main()
 {
     int number;
     printf("Enter the number: ");
-    scanf("%d", number);
+    scanf("%d", &number);
     if (isPrime(number) == 1)
     {
         printf("The NUmber is prime");

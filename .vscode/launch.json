@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/MD Rafi/Documents/Drive Documents/C and C++/Learning-C",
-      "program": "c:/Users/MD Rafi/Documents/Drive Documents/C and C++/Learning-C/build/Debug/outDebug",
+      "cwd": "c:/Users/MD Rafi/Documents/C and C++/Learning-C",
+      "program": "c:/Users/MD Rafi/Documents/C and C++/Learning-C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
